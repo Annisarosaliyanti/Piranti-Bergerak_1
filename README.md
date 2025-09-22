@@ -1,16 +1,8 @@
-# flutter_application_2
+Nama: Annisa Rosaliyanti
+Nim: 2309106127
 
-A new Flutter project.
 
-## Getting Started
+<img width="288" height="512" alt="Screenshot 2025-09-22 152524" src="https://github.com/user-attachments/assets/47787e7e-26cc-4059-9e9e-6b5140b28cba" />
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="290" height="529" alt="Screenshot 2025-09-22 152612" src="https://github.com/user-attachments/assets/41d09d11-ee07-4131-a562-1338dfb8a9a4" />
